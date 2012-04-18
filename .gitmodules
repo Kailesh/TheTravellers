@@ -1,3 +1,6 @@
 [submodule "WitsTSPCluster"]
 	path = WitsTSPCluster
 	url = git@github.com:ElectricAegis/WitsTSPCluster.git
+[submodule "WitsTSPClusterWebServer"]
+	path = WitsTSPClusterWebServer
+	url = git@github.com:ElectricAegis/WitsTSPClusterWebServer.git
